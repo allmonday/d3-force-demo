@@ -1,5 +1,5 @@
 import "./style.css";
-import { ForceTree, type GraphData } from "./tree-force.js";
+import { ForceTree, type GraphData } from "./tree-force";
 
 // 示例：环状结构数据（非树）
 const data: GraphData = {

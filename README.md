@@ -4,7 +4,6 @@
 
 <img width="1005" height="464" alt="image" src="https://github.com/user-attachments/assets/5ddd767e-85e7-4210-b47e-899243e6e99a" />
 
-
 ## 启动方式
 
 1. 安装依赖：
@@ -19,7 +18,7 @@
 
 ## 主要文件
 
-- `src/tree-force.js`：d3.js 树状 force 图核心逻辑
+- `src/tree-force.ts`：d3.js 树状 force 图核心逻辑
 - `index.html`：页面入口
 - `src/main.ts`：入口脚本
 
