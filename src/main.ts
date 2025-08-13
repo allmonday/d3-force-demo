@@ -1,8 +1,8 @@
 import "./style.css";
-import { ForceTree } from "./tree-force.js";
+import { ForceTree, type GraphData } from "./tree-force.js";
 
 // 示例：环状结构数据（非树）
-const data = {
+const data: GraphData = {
   nodes: [
     { id: "A", label: "A", value: 1 },
     { id: "B", label: "B", value: 2 },
